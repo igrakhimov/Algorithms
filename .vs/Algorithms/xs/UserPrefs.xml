@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{65089BD9-DF6C-4BED-9D3D-0A0859663355}|Default">
+  <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/appsettings.Development.json">
+    <Files>
+      <File FileName="Algorithms/Program.cs" Line="22" Column="1" />
+      <File FileName="Algorithms/Collections.cs" Line="6" Column="24" />
+      <File FileName="Algorithms/Polindrome.cs" Line="8" Column="35" />
+      <File FileName="Algorithms/Sudoku.cs" Line="54" Column="64" />
+      <File FileName="Algorithms/Helper.cs" Line="21" Column="1" />
+      <File FileName="Algorithms/MaxProfit.cs" Line="9" Column="14" />
+      <File FileName="Algorithms/Startup.cs" Line="1" Column="1" />
+      <File FileName="Algorithms/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Algorithms/appsettings.json" Line="1" Column="1" />
+      <File FileName="Algorithms/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algorithms" expanded="True">
+            <Node name="Algorithms" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
